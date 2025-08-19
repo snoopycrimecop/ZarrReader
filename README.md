@@ -37,7 +37,7 @@ Release versions of OMEZarrReader are available directly from the [OME artifacto
 
 ### Bio-Formats tools
 
-If you would like to use OMEZarrReader with the bftools suite, you will need to set the `BC_CP`
+If you would like to use OMEZarrReader with the bftools suite, you will need to set the `BF_CP`
 environment variable to include the jar which includes all dependencies:
 
 ```
